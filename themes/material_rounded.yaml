@@ -1,4 +1,4 @@
-Material Rounded:
+Material Rounded Custom:
   app-header-background-color: var(--lovelace-background)
   app-header-edit-background-color: var(--navbar-background)
   app-header-edit-text-color: var(--app-header-text-color)
@@ -159,7 +159,7 @@ Material Rounded:
   title-font-size: 28px
   title-font-weight: 600
   vertical-stack-card-margin: 4px 0px
-Material Rounded No Mod:
+Material Rounded No Mod Custom:
   app-header-background-color: var(--navbar-background)
   app-header-edit-background-color: var(--navbar-background)
   app-header-edit-text-color: var(--app-header-text-color)
@@ -302,7 +302,7 @@ Material Rounded No Mod:
   title-font-size: 28px
   title-font-weight: 600
   vertical-stack-card-margin: 4px 0px
-Material Rounded Transparent Card:
+Material Rounded Transparent Card Custom:
   app-header-background-color: var(--lovelace-background)
   app-header-edit-background-color: var(--navbar-background)
   app-header-edit-text-color: var(--app-header-text-color)
@@ -446,7 +446,7 @@ Material Rounded Transparent Card:
   title-font-size: 28px
   title-font-weight: 600
   vertical-stack-card-margin: 4px 0px
-Material Rounded Transparent Card No Mod:
+Material Rounded Transparent Card No Mod Custom:
   app-header-background-color: var(--navbar-background)
   app-header-edit-background-color: var(--navbar-background)
   app-header-edit-text-color: var(--app-header-text-color)
